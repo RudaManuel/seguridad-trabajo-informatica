@@ -1,7 +1,9 @@
-# 🖱️ ***Informática Ambiental***
-_Un trabajo sobre la Proteccion Medioambiental_
+# 🖱️ ***Seguridad en el Trabajo de Informática***
+_Un trabajo sobre la Seguridad Laboral desde
+desde un punto de vista Informático_
 
 ---
+
 ## 📑 Índice
 
 ### 1. _[Riesgos Laborales](riesgos_laborales.md)_
