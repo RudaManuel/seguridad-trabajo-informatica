@@ -2,7 +2,7 @@
 _Un trabajo sobre la Seguridad Laboral desde
 desde un punto de vista Informático_
 
-![fotito](img/seguridad_trabajo.jpg)
+![fotito](img/seguridad.png)
 
 ---
 
