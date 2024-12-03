@@ -1,4 +1,4 @@
-# ❗Riesgos Laborales
+## ❗Riesgos Laborales
 
 ---
 
