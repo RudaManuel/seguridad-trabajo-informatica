@@ -1,6 +1,6 @@
 # 🖱️ ***Seguridad en el Trabajo de Informática***
-_Un trabajo sobre la Seguridad Laboral desde
-desde un punto de vista Informático_
+
+_Un trabajo sobre la Seguridad Laboral desdedesde un punto de vista Informático_
 
 ![fotito](img/seguridad_trabajo.jpg)
 
@@ -13,8 +13,6 @@ desde un punto de vista Informático_
 
 ---
 
-## 📖 Referencias
-[Ver documento](referencias.md)
+## 📖 Referencias [Ver](referencias.md)
 
-## ✍️ Autores
-[Ver documento](autores.md)
+## ✍️ Autores [Ver](autores.md)
