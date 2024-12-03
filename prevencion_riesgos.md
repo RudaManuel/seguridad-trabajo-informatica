@@ -11,3 +11,4 @@ Entre los riesgos más comunes en este contexto se encuentran:
 4. **Cumplimiento de normas de seguridad**: Es esencial que las oficinas sigan pautas de seguridad adecuadas y estén equipadas para hacer frente a posibles riesgos. Esto incluye la correcta ubicación de salidas de emergencia, extintores y puntos de encuentro dentro y fuera del edificio, garantizando así la seguridad de todos los empleados.
 
 En conclusión, el trabajo en el ámbito informático conlleva una serie de riesgos laborales que deben ser gestionados de manera proactiva. La identificación y mitigación de estos riesgos son fundamentales para prevenir problemas de salud a largo plazo, tanto físicos como mentales. Al implementar medidas adecuadas, se puede fomentar un entorno laboral más seguro y saludable, beneficiando tanto a los empleados como a la organización en su conjunto.
+
