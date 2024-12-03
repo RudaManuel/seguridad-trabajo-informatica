@@ -1,7 +1,9 @@
-Riesgos laborales y prevencion de riesgos en el entorno de la informatica
+## 📖 Referencias
 
-https://prevencionugtandalucia.es/riesgos-laborales-en-el-sector-de-la-informatica/
+**Riesgos laborales y Prevencion de Riesgos**
 
-https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/
+- https://prevencionugtandalucia.es/riesgos-laborales-en-el-sector-de-la-informatica/
 
-BLOQUE II FUNDAMENTOS DEL HARDWARE : Seguridad_Trabajo_Oficinas-y-Despachos-1.pdf
+- https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/
+
+- BLOQUE II FUNDAMENTOS DEL HARDWARE: Seguridad_Trabajo_Oficinas-y-Despachos-1.pdf
