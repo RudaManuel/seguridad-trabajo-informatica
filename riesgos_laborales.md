@@ -13,4 +13,4 @@ En un entorno de oficina, donde los trabajadores pasan largas horas frente a pan
 
 - En resumen, la **seguridad en el entorno laboral informático** es un tema complejo que requiere un enfoque integral. La atención a la ergonomía y a otros factores de riesgo es fundamental para crear un ambiente de trabajo saludable y productivo. Al priorizar la seguridad y el bienestar de los empleados, las organizaciones no solo protegen a su personal, sino que también contribuyen al éxito y la sostenibilidad a largo plazo de la empresa.
 
-![riesgos1](img/riesgos_laborales1.png)
+    ![riesgos1](img/riesgos_laborales1.png)
