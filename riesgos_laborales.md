@@ -7,7 +7,7 @@
 - Uno de los aspectos más destacados es la ergonomía, que juega un papel crucial en la prevención de lesiones y en el bienestar general de los empleados. La _ergonomía_ se refiere a la **ciencia que estudia cómo adaptar el trabajo a las capacidades y limitaciones de las personas, con el objetivo de optimizar su rendimiento y minimizar el riesgo de lesiones**.
 En un entorno de oficina, donde los trabajadores pasan largas horas frente a pantallas de ordenador, la correcta disposición del mobiliario, la elección de equipos adecuados y la adopción de posturas saludables son fundamentales para evitar problemas de salud a largo plazo.
 
-<p align="center>
+<p align="center">
 ![riesgos](img/riesgos_laborales2.jpg)
 </p>
 
